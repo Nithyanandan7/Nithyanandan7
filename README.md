@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Nithyanandan
 
-<!--
-**Nithyanandan7/Nithyanandan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student | Java & Web Developer  
+I enjoy building backend-focused applications and real-world systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Java, C
+- HTML, CSS, JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **ATM Simulation System** – Java, OOP, File Handling  
+- **Smart Academic Portal** – Java, Web Technologies  
+- **Java Practice** – Logic building & problem solving
+
+### 📫 Connect with me
+- GitHub: https://github.com/Nithyanandan7
